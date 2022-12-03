@@ -8,7 +8,7 @@
 
 ▷ Rigorous training in best practices in various Cybersecurity and related domains such as Secure Programming & Penetration Testing, Usable Security & Privacy, Network & Information Security, Cloud Data Storage and Malware Analysis.
 
-Email: tmdbah@gmail.com | w: tmdbah.com
+📫 How to reach me: tmdbah@gmail.com | w: tmdbah.com
 
 ---
 ### 🧰 Languages and Tools
@@ -40,6 +40,7 @@ Email: tmdbah@gmail.com | w: tmdbah.com
 
 #
 
+💬 Ask me about ... Data Structures and Algorithms | Object Oriented Programming | Cybersecurity | Design
 <!--
 **tmdbah/tmdbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
