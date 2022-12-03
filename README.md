@@ -12,7 +12,7 @@ System.out.println("Hello and Welcome to my Github");
 
 ▷ Rigorous training in best practices in various Cybersecurity and related domains such as Secure Programming & Penetration Testing, Usable Security & Privacy, Network & Information Security, Cloud Data Storage and Malware Analysis.
 
-📫 How to reach me: tmdbah@gmail.com | w: tmdbah.com
+📫 How to reach me: tmdbah@gmail.com
 
 ---
 ### 🧰 Languages and Tools
