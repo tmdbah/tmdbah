@@ -45,6 +45,8 @@ System.out.println("Hello and Welcome to my Github");
 #
 
 💬 Ask me about ... Data Structures and Algorithms | Object Oriented Programming | Cybersecurity | Design
+
+![Screenshot](TMDB_LinkedIn_Cover_Photo.jpg)
 <!--
 **tmdbah/tmdbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
