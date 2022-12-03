@@ -1,6 +1,14 @@
-### TJ Bah
-## TJ Bah
 # TJ Bah
+
+**`Developer, IT Specialist, Filmmaker & Creator`**
+
+▷ Curious problem-solver, web, mobile and software developer with experience creating responsive web applications suitable for mobile devices. Proficiency in HTML, CSS, JavaScript and Java.
+
+▷ Familiar with command line tools, Git and GitHub. Experience creating digital content such as Videography, Photography, Audio Recording/Engineering and Music Production using various tools such as Adobe Creative Suite, Final Cut Pro and Logic Pro.
+
+▷ Rigorous training in best practices in various Cybersecurity and related domains such as Secure Programming & Penetration Testing, Usable Security & Privacy, Network & Information Security, Cloud Data Storage and Malware Analysis.
+
+Email: tmdbah@gmail.com | w: tmdbah.com
 
 <!--
 **tmdbah/tmdbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
