@@ -3,9 +3,6 @@
 **`Developer, IT Specialist, Filmmaker & Creator`**
 
 ```Java
-/**
- * @author TJ Bah
- */
 System.out.println("Hello and Welcome to my Github");
 ```
 
