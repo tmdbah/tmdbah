@@ -3,7 +3,10 @@
 **`Developer, IT Specialist, Filmmaker & Creator`**
 
 ```Java
-System.out.println("Hello World");
+/**
+ * @author TJ Bah
+ */
+System.out.println("Hello and Welcome to my Github");
 ```
 
 ▷ Curious problem-solver, web, mobile and software developer with experience creating responsive web applications suitable for mobile devices. Proficiency in HTML, CSS, JavaScript and Java.
