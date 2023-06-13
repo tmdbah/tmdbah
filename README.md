@@ -1,7 +1,7 @@
 # TJ Bah
 ![Screenshot](TMDB_LinkedIn_Cover_Photo.jpg)
 
-**`Developer, IT Specialist, Filmmaker & Creator`**
+**`Problem Solver, Critical Thinker, Developer ⌨️📱 and IT Specialist 🧑🏽‍💻🎥📸`**
 
 ```Java
 System.out.println("Hello and Welcome to my Github");
