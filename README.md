@@ -6,12 +6,13 @@
 ```Java
 System.out.println("Hello and Welcome to my Github");
 ```
+I am a web developer specializing in building creative business solutions and solving everyday problems. I'm focused on creating, testing and analyzing technology solutions that improve efficiency, effectiveness, productivity and information security.
 
-▷ Curious problem-solver, web, mobile and software developer with experience creating responsive web applications suitable for mobile devices. Proficiency in HTML, CSS, JavaScript and Java.
+▷ Curious problem-solver, web, mobile and software developer with experience creating responsive web applications suitable for mobile devices. Specializing in Front-End development with a growing exposure to Cloud, Back-End and Mobile development.
 
-▷ Familiar with command line tools, Git and GitHub. Experience creating digital content such as Videography, Photography, Audio Recording/Engineering and Music Production using various tools such as Adobe Creative Suite, Final Cut Pro and Logic Pro.
+▷ Experience with web design and creating digital content such as Videography, Photography, Audio Recording/Engineering and Music Production using various tools such as Figma, Adobe Creative Suite, Final Cut Pro and Logic Pro.
 
-▷ Rigorous training in best practices in various Cybersecurity and related domains such as Secure Programming & Penetration Testing, Usable Security & Privacy, Network & Information Security, Cloud Data Storage and Malware Analysis.
+▷ Rigorous training in best security practices of various security domains such as Secure Programming & Penetration Testing, Usable Security & Privacy, Network & Information Security, Risk Management, Cloud Data Storage, Malware Analysis and Computer Forensics.
 
 📫 How to reach me: tmdbah@gmail.com
 
