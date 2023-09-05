@@ -1,5 +1,5 @@
 # TJ Bah
-![Screenshot](tmdbah/tmdbahdev.jpg)
+![Screenshot](TMDB_LinkedIn_Cover_Photo.jpg)
 
 **`Problem Solver, Critical Thinker, Developer ⌨️📱 and IT Specialist 🧑🏽‍💻🎥📸`**
 
