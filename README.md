@@ -1,7 +1,7 @@
 # TJ Bah
 
 
-**`Problem Solver, Critical Thinker, Developer ⌨️📱 and IT Specialist 🧑🏽‍💻🎥📸`**
+**`Software Engineer 🧑🏽‍💻 | MSc Cybersecurity 🎓| BSc Business Administration 🏢 `**
 
 ```Java
 System.out.println("Hello and Welcome to my Github");
