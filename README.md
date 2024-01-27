@@ -6,13 +6,15 @@
 ```Java
 System.out.println("Hello and Welcome to my Github");
 ```
-I am a web developer specializing in building creative business solutions and solving everyday problems. I'm focused on creating, testing and analyzing technology solutions that improve efficiency, effectiveness, productivity and information security.
+🚀 I am a Software Engineer specializing in building creative business solutions and solving everyday problems. I am focused on creating, testing and analyzing technology solutions that improve efficiency, effectiveness, productivity and information security.
 
-▷ Curious problem-solver, web, mobile and software developer with experience creating responsive web applications suitable for mobile devices. Specializing in Front-End development with a growing exposure to Cloud, Back-End and Mobile development.
+💡 Key Highlights:
 
-▷ Experience with web design and creating digital content such as Videography, Photography, Audio Recording/Engineering and Music Production using various tools such as Figma, Adobe Creative Suite, Final Cut Pro and Logic Pro.
-
-▷ Rigorous training in best security practices of various security domains such as Secure Programming & Penetration Testing, Usable Security & Privacy, Network & Information Security, Risk Management, Cloud Data Storage, Malware Analysis and Computer Forensics.
+🌐 Versatile Developer
+🔒 Security Expertise
+🎨 Multimedia Maven
+🖥️ IT Support Maestro
+🎯 Passionate Learner
 
 📫 How to reach me: tmdbah@gmail.com
 
@@ -45,8 +47,6 @@ I am a web developer specializing in building creative business solutions and so
 <br />
 
 #
-
-💬 Ask me about ... Data Structures and Algorithms | Object Oriented Programming | Cybersecurity | Design
 
 <!--
 **tmdbah/tmdbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
