@@ -1,4 +1,3 @@
-![TJ Bah](https://github.com/tmdbah/tmdbah/assets/31374716/feb38695-2b36-4821-ae1b-a97135ab2d79)
 # TJ Bah
 
 
@@ -48,6 +47,7 @@ System.out.println("Hello and Welcome to my Github");
 <br />
 
 #
+![TJ Bah](https://github.com/tmdbah/tmdbah/assets/31374716/feb38695-2b36-4821-ae1b-a97135ab2d79)
 
 <!--
 **tmdbah/tmdbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
